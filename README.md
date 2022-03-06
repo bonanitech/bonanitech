@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/bonanitech)
+![Metrics](/github-metrics.svg)
